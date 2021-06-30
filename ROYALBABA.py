@@ -29,13 +29,13 @@ pbot = Client("LEGEND", api_id=API_ID, api_hash=API_HASH, bot_token=token)
 BOT = str(botnickname) if botnickname else "LEGEND BOT"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "LEGEND BOY"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-LEGENDX = "[LEGEND X](https://t.me/LEGENDX22)"
+LEGENDX = "[ROYALBABA](https://t.me/royalashu4u)"
 VERSION = "3.1.5"
 ID = 1100231654
 REPO = "[LEGEND BOT](https://github.com/LEGENDXOP/LEGEND-BOT)"
 PRO = bot.uid
 MASTER = f"[{NAME}](tg://user?id={PRO})"
-GROUP = "[SUPPORT GROUP](https://t.me/LEGEND_USERBOT_SUPPORT)"
+GROUP = "[DEVLOPER](https://t.me/royalashu4u)"
 if __name__=="__main__":
   xbot.run_until_disconnected()
 
